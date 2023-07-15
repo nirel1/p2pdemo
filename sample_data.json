@@ -1,0 +1,38 @@
+{
+    "trades": [
+      {
+        "txHash": "0x65f60f6982ab59f1e2acdf5f79ae1033b98b242cfb7ce1b8e0308d1d5f3f8bca",
+        "walletAddress": "0x3D980E50508CFd41a13837A60149927a11c03731",
+        "timestamp": 1648469202,
+        "token": "ETH",
+        "amount": 1.23,
+        "tradeType": "BUY",
+        "tradePrice": 2345.67,
+        "totalValue": 2882.1741,
+        "blockNumber": 11789456
+      },
+      {
+        "txHash": "0x4a9f3b0489c1f5c89573b2b2a98520ba844a51a265edaf19e2bf05b5697c4f68",
+        "walletAddress": "0x3D980E50508CFd41a13837A60149927a11c03731",
+        "timestamp": 1648502201,
+        "token": "ETH",
+        "amount": 0.75,
+        "tradeType": "SELL",
+        "tradePrice": 2358.89,
+        "totalValue": 1769.1675,
+        "blockNumber": 11789674
+      },
+      {
+        "txHash": "0xe5d4c2f9e95b7a64c0a3b12a0f3b0c9f8f95d8f14cbe4a8cdaa6f1c4c3b23c75",
+        "walletAddress": "0x3D980E50508CFd41a13837A60149927a11c03731",
+        "timestamp": 1648523000,
+        "token": "ETH",
+        "amount": 2.56,
+        "tradeType": "BUY",
+        "tradePrice": 2370.12,
+        "totalValue": 6067.1072,
+        "blockNumber": 11789856
+      }
+    ]
+  }
+  
